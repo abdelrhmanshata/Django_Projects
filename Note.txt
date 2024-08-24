@@ -1,0 +1,4 @@
+// select new interpreter
+>  Shift+Ctrl+P => python:Select interpreter => Enter interpreter path => find => select file => \venv\Scripts\python.exe
+--------------------------------------------------------------------------------------------------------------------------------
+
